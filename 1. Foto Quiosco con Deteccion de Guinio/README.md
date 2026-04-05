@@ -6,7 +6,8 @@ Aplicación de escritorio desarrollada en Python que permite capturar fotografí
 - **Cristian Cruz**  
 - 🎥 Demo: [https://youtu.be/MKwdiutVYjU](https://youtu.be/MKwdiutVYjU)
 
-  <img width="1563" height="774" alt="image" src="https://github.com/user-attachments/assets/4f9c1120-bb6d-4089-9db8-3cab781414f4" />
+<img width="1563" height="662" alt="image" src="https://github.com/user-attachments/assets/0c9920de-5a79-4431-b583-fe9aa940a4a5" />
+
 
 
 ---
