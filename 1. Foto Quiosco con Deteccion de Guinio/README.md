@@ -3,8 +3,11 @@
 Aplicación de escritorio desarrollada en Python que permite capturar fotografías automáticamente mediante la detección de rostros y el guiño de un ojo utilizando visión por computadora.
 
 ## 👨‍💻 Autor
-- **Cruz Asencios, Cristian Elvis**  
+- **Cristian Cruz**  
 - 🎥 Demo: [https://youtu.be/MKwdiutVYjU](https://youtu.be/MKwdiutVYjU)
+
+  <img width="1563" height="774" alt="image" src="https://github.com/user-attachments/assets/4f9c1120-bb6d-4089-9db8-3cab781414f4" />
+
 
 ---
 
@@ -19,17 +22,6 @@ Este proyecto implementa un sistema de captura de imágenes tipo “quiosco”, 
 
 Todo esto se muestra en una interfaz gráfica construida con **Tkinter**.
 
----
-
-## ⚙️ Tecnologías utilizadas
-
-- Python 3
-- OpenCV (`cv2`)
-- Tkinter
-- PIL (Pillow)
-- Haar Cascade Classifiers
-
----
 
 ## 🚀 Instalación
 
