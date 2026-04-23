@@ -1,7 +1,7 @@
 import numpy as np
 from antenna.patterns import radiation_pattern
 from antenna.array_factor import array_factor
-#
+from visualization.plot2d import plot_2d
 from visualization.plot3d import plot_3d
 
 def main():
@@ -20,4 +20,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-    
